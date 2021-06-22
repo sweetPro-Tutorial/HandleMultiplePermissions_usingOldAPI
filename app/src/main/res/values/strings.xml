@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SharedStorage Permission Sample</string>
+    <string name="permission_required">If you deny permission, core function may be restricted. Permission must be requested.</string>
+    <string name="ok">O.K</string>
+</resources>
